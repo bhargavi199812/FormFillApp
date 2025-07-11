@@ -13,6 +13,11 @@
     <input type="name" placeholder="Enter name " name="name" id="name" required>
     <br>
 
+    <label for="fathername"><b>fathername</b></label>
+    <input type="fathername" placeholder="Enterfather name " name="fathername" id="fathername" required>
+    <br>
+
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
