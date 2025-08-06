@@ -4,6 +4,9 @@
     <p>Please fill in this form!</p>
     <hr>
     <br>
+    <label for="fullname"><b>Email</b></label>
+    <input type="fullname" placeholder="Enter Fullname" name="fullname" id="fullname" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
